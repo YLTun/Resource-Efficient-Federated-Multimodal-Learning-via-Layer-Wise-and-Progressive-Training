@@ -10,7 +10,7 @@ You can set up the environment using Anaconda. The dependencies are listed in th
 
 ## 📂 Data Preparation
 
-Please download the **COCO** and **ADVANCE** datasets manually before running the experiments.
+Please download the **COCO** or **ADVANCE** datasets manually before running the experiments.
 
 ### 1. Download Pre-trained Weights
 Before running any training scripts, you must download/save the required pre-trained weights.

@@ -44,5 +44,3 @@ For the ADVANCE dataset, you must generate the data splits and client distributi
 **Step 2: Training**
 *   **For LW-FedMML:** Run `LW_SUP_ADVANCE_FL.ipynb`
 *   **For Prog-FedMML:** Run `PROG_SUP_ADVANCE_FL.ipynb`
-
-```
